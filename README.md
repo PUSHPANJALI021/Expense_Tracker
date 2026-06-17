@@ -1,6 +1,3 @@
-Here is your **clean, properly formatted README.md** ready to paste:
-
----
 
 # 💰 Expense Tracker
 
@@ -105,4 +102,4 @@ npm run preview
 
 ---
 
-If you want, I can also upgrade this into a **professional GitHub README with badges, screenshots, and deployment link (portfolio level)**.
+
